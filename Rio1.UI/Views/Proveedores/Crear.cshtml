@@ -1,0 +1,58 @@
+﻿@model Rio1.Model.Productos
+
+@{
+    ViewBag.Title = "CrearProductos";
+}
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="~/Content/Estilos.css">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale-1.0, maximun-scale=3.0, minimun-scale=1.0">
+
+</head>
+<br />
+<br />
+<center><div class=" contenedor"><center><h2>Agregar un producto </h2></center></div></center>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <br />
+    <br />
+    <center>
+        <div class="General">
+            <div class="form-horizontal">
+                <h4>Datos del producto</h4>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.NombreProducto, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.NombreProducto, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ejemplo: Albert Camareno Rodríguez" } })
+                        @Html.ValidationMessageFor(model => model.NombreProducto, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Monto, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Monto, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ejemplo: 1000" } })
+                        @Html.ValidationMessageFor(model => model.Monto, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <br />
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Aceptar" class="btn btn-success" />
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </center>
+}
+<br />
+<div>
+    <p><a class="btn btn-success" @Html.ActionLink("Regresar a proveedores", "Index")</a></p>
+
+</div>

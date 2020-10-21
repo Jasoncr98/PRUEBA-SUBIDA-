@@ -1,0 +1,31 @@
+﻿@model Rio1.Model.AspNetRole
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+<br />
+<br />
+
+<center><div class="contenedor"><h2>Eliminación de rol</h2></div></center>
+
+
+<CENTER>
+    <div class=" TablaFormato">
+        <h4>!Vamos a eliminar un rol¡</h4>
+        <hr />
+        <h3>¿Está seguro que desea eliminar el rol?</h3>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <br />
+                <input type="submit" value="Eliminar" class="btn btn-primary" /> 
+                <br />
+                <br />
+                <p> <a class="btn btn-success" @Html.ActionLink("Regresar", "Index")</p>
+            </div>
+        }
+    </div>
+</CENTER>

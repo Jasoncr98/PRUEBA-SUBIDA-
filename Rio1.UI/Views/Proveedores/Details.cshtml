@@ -1,0 +1,52 @@
+﻿@model Rio1.Model.Proveedores
+
+@{
+    ViewBag.Title = "Detalles de proveedores";
+}
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="~/Content/Estilos.css">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale-1.0, maximun-scale=3.0, minimun-scale=1.0">
+
+</head>
+<br />
+<br />
+<center><div class=" contenedor"><center><h2>Información del proveedor</h2></center></div></center>
+<br />
+<br />
+<center>
+    <div class=" General">
+        <h4>Datos del proveedor</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.NombreProveedor)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.NombreProveedor)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Telefono)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Direccion)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Direccion)
+            </dd>
+
+        </dl>
+    </div>
+</center>
+<br />
+<p><a class="btn btn-success" @Html.ActionLink("Regresar a proveedor", "Index")</a></p>
+
+

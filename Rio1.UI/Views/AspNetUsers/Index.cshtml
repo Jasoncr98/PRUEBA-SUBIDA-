@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Rio1.Model.AspNetUsers>
+
+@{
+    ViewBag.Title = "Datos de usuarios";
+}
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="~/Content/Estilos.css">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale-1.0, maximun-scale=3.0, minimun-scale=1.0">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <link href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <script class="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+</head>
+<br />
+<br />
+<div class="contenedor">
+    <center><h2>Lista de usuarios</h2></center>
+</div>
+<br />
+<br />
+<p><a class="btn btn-info" @Html.ActionLink("Registrar un usuario", "Register", "Account")</a></p>
+
+<br />
+<center>
+    <div class="TablaFormato">
+        <center>
+            <table id="table_id" class="display">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Id)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.UserName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Email)
+                        </th>
+
+
+                        <th></th>
+                    </tr>
+                <thead>
+
+                    @foreach (var item in Model)
+                    {
+                    <tbody>
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.UserName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Email)
+                            </td>
+
+                            <td>
+
+                                <a class="btn btn-primary" @Html.ActionLink("Detalles", "Detallar", new { id = item.Id })
+                                <a class="btn btn-danger" @Html.ActionLink("Eliminar", "Eliminar", new { id = item.Id })
+
+                            </td>
+                        </tr>
+                    </tbody>
+
+                }
+
+                </table>
+            </center>
+        </div>
+    </center>
+<br />
+<br />
+<p><a class="btn btn-success" @Html.ActionLink("Regresar a Inicio", "Index", "Home")</a></p>
+
+
+    @section scripts{
+        <script>
+            $(document).ready(function () {
+                $('#table_id').DataTable();
+            })
+
+
+        </script>
+    }

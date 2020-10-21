@@ -1,0 +1,55 @@
+﻿@model Rio1.Model.AspNetUsers
+
+@{
+    ViewBag.Title = "DetallarUsuario";
+}
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="~/Content/Estilos.css">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale-1.0, maximun-scale=3.0, minimun-scale=1.0">
+
+</head>
+<br />
+<br />
+<center><div class=" contenedor"><center><h2>Datos del usuario</h2></center></div></center>
+<br />
+<br />
+
+<center>
+    <div class=" TablaFormato">
+        <br />
+        <h4>Información del usuario</h4>
+        <hr />
+        <dl class="dl-horizontal">
+
+            <dt>
+                @Html.DisplayNameFor(model => model.UserName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.UserName)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Id)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Id)
+            </dd>
+
+
+        </dl>
+    </div>
+</center>
+
+<p><a class="btn btn-success" @Html.ActionLink("Regresar usuarios", "Index")</a></p>
+
+

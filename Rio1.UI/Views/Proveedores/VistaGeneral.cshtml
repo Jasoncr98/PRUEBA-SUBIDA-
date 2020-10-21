@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Rio1.Model.Proveedores>
+
+@{
+    ViewBag.Title = "VistaGeneral";
+}
+
+
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="~/Content/Estilos.css">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale-1.0, maximun-scale=3.0, minimun-scale=1.0">
+
+</head>
+<br />
+<br />
+<center>
+    <div class="contenedor">
+        <center>
+            <h2>
+                Página administrativa para proveeduría
+
+            </h2>
+        </center>
+        <center><h3>Administrative page for suppliers</h3></center>
+
+    </div>
+</center>
+
+<br />
+<br />
+<div class="row">
+    <div class="col-md-4">
+        <div class="Minicontenedor">
+            <center> <h2>Historial de Proveedores</h2></center>
+            <a href='@Url.Action("Index", "Proveedores")'> <center><img src="~/Content/imagenes/inventario.png" class="Alojamiento" text-align: center title="Botón de acceso a la página de proveeduría"></center></a>
+
+        </div>
+
+    </div>
+
+
+    <div class="col-md-4">
+        <div class="Minicontenedor">
+            <center><h2>Historial de Productos</h2></center>
+            <a href='@Url.Action("Index", "Productos")'> <center><img src="~/Content/imagenes/carrito-de-compras.png" class="Alojamiento" text-align: center title="Botón de acceso a la página de compras productos"></center></a>
+
+        </div>
+    </div>
+
+
+    <div class="col-md-4">
+        <div class="Minicontenedor">
+
+            <center><h2>Historial del Proveeduría</h2></center>
+            <a href='@Url.Action("ListaHistorial", "Productos")'> <center><img src="~/Content/imagenes/lista-de-verificacion.png" class="Alojamiento" text-align: center title="Botón de acceso a la página de Historial de proveeduría"></center></a>
+
+        </div>
+
+    </div>
+
+
+</div>

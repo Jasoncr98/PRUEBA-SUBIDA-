@@ -1,0 +1,35 @@
+﻿@model Rio1.Model.AspNetUsers
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="~/Content/Estilos.css">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale-1.0, maximun-scale=3.0, minimun-scale=1.0">
+
+</head>
+<br />
+<br />
+<center><div class=" contenedor"><center><h2>Eliminar a un usuario</h2></center></div></center>
+
+
+<center>
+    <div class="TablaFormato">
+        <h4>Datos del usuario</h4>
+
+
+        <hr />
+       <h3>¿Está seguro de eliminar el usuario</h3>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Eliminar" class="btn btn-primary" /> |
+                <a class="btn btn-success" @Html.ActionLink("Regresar a usuarios", "Index")
+            </div>
+        }
+    </div>
+</center>

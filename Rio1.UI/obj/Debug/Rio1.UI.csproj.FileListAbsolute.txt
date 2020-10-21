@@ -1,0 +1,252 @@
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.UI.dll.config
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.UI.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.UI.pdb
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\csc.exe
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\csc.exe.config
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\csc.rsp
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\csi.exe
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\csi.exe.config
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\csi.rsp
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Console.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\vbc.exe
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\vbc.exe.config
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\vbc.rsp
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Antlr3.Runtime.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\EntityFramework.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Newtonsoft.Json.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Owin.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.Business.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.DataAcces.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.Model.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.Helpers.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.Mvc.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.Optimization.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.Razor.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.WebPages.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\WebGrease.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.Business.pdb
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.Business.dll.config
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.DataAcces.pdb
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.DataAcces.dll.config
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.Model.pdb
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Rio1.Model.dll.config
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.Helpers.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.Mvc.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.Optimization.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.Razor.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.WebPages.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Newtonsoft.Json.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\EntityFramework.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\EntityFramework.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.csproj.CopyComplete
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.UI.dll.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.UI.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.UI.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\csc.exe
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\csc.exe.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\csc.rsp
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\csi.exe
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\csi.exe.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\csi.rsp
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.AppContext.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Console.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.IO.Compression.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.IO.Pipes.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Security.AccessControl.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Security.Claims.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.ValueTuple.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Xml.XPath.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\vbc.exe
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\vbc.exe.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\vbc.rsp
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\VBCSCompiler.exe
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Antlr3.Runtime.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\EntityFramework.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\EntityFramework.SqlServer.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Google.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Newtonsoft.Json.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Owin.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.Business.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.DataAcces.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.Model.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.Helpers.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.Mvc.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.Optimization.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.Razor.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.WebPages.Deployment.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.WebPages.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.WebPages.Razor.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\WebGrease.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.Business.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.Business.dll.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.DataAcces.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.DataAcces.dll.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.Model.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Rio1.Model.dll.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.Helpers.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.Mvc.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.Optimization.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.Razor.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.WebPages.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.WebPages.Deployment.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\System.Web.WebPages.Razor.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Newtonsoft.Json.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Antlr3.Runtime.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\EntityFramework.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\EntityFramework.SqlServer.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Google.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\System.Web.Helpers.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\System.Web.Mvc.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\System.Web.Optimization.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\System.Web.Razor.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\System.Web.WebPages.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\EntityFramework.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.csprojAssemblyReference.cache
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.csproj.CoreCompileInputs.cache
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.csproj.CopyComplete
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.UI\obj\Debug\Rio1.UI.pdb

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Rio1.Model.AspNetUsers>
+
+@{
+    ViewBag.Title = "VistaGeneral";
+}
+
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="~/Content/Estilos.css">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale-1.0, maximun-scale=3.0, minimun-scale=1.0">
+
+</head>
+<br />
+<br />
+<div class="contenedor">
+    <center>
+        <h2>
+            Página administrativa de Usuarios
+
+        </h2>
+    </center>
+    
+
+</div>
+
+
+<br />
+<br />
+<center>
+    
+        <div class="row">
+
+            <div class="col-md-4">
+                <div class=" Minicontenedor">
+                    <center> <h2>Usuarios</h2></center>
+                    <a href='@Url.Action("Index", "AspNetUsers")'> <center><img src="~/Content/imagenes/usuario.png" class="Alojamiento" text-align: center></center></a>
+                </div>
+            </div>
+
+
+            <div class="col-md-4">
+                <div class="Minicontenedor">
+                    <center><h2>Roles </h2></center>
+                    <a href='@Url.Action("Index", "AspNetRoles")'> <center><img src="~/Content/imagenes/analitica.png" class="Alojamiento" text-align: center></center></a>
+
+                </div>
+            </div>
+        </div>
+   
+</center>

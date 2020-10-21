@@ -1,0 +1,35 @@
+﻿@model Rio1.UI.Models.ExternalLoginListViewModel
+@using Microsoft.Owin.Security
+
+<div class="contenedor"><h4>Use otro servicio para iniciar sesión.</h4></div>
+<hr />
+@{
+    var loginProviders = Context.GetOwinContext().Authentication.GetExternalAuthenticationTypes();
+    if (loginProviders.Count() == 0) {
+
+    <div class=" General">
+      <center>
+        <p>
+            Recuerde ingresar los datos de forma concisa y directa.
+            <br />
+            Este tipo de logueo es exclusivo de los usuarios de la página Centro Recreativo Río Nósara.
+            <br />
+            Todos los derechos se encuetran reservados.
+        </p>
+      </center> 
+    </div>
+
+    }
+    else {
+        using (Html.BeginForm("ExternalLogin", "Account", new { ReturnUrl = Model.ReturnUrl })) {
+            @Html.AntiForgeryToken()
+            <div id="socialLoginList">
+                <p>
+                    @foreach (AuthenticationDescription p in loginProviders) {
+                        <button type="submit" class="btn btn-default" id="@p.AuthenticationType" name="provider" value="@p.AuthenticationType" title="Inicie sesión con su cuenta @p.Caption">@p.AuthenticationType</button>
+                    }
+                </p>
+            </div>
+        }
+    }
+}

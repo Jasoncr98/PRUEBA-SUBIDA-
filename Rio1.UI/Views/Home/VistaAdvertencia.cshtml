@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Rio1.UI.Models.IndexViewModel>
+
+@{
+    ViewBag.Title = "VistaAdvertencia";
+}
+<br />
+<br />
+
+<div class="contenedor" >
+    <h2>Mensaje de Advertencia</h2>
+</div>
+
+    <center>
+        <div class="TablaFormato" >
+
+            <center><h4>La página a la que quiere ingresar es exclusiva del Super Usuario</h4></center>
+            <p><a class="btn btn-success" @Html.ActionLink("Regresar", "VistaGeneral,", "Proveedores")</a></p>
+
+        </div>
+    </center>

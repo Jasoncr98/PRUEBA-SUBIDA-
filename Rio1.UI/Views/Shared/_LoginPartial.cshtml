@@ -1,0 +1,52 @@
+﻿@using Microsoft.AspNet.Identity
+
+
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                @Html.ActionLink("Hola " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+            </li>
+
+            <li><a href="javascript:document.getElementById('logoutForm').submit()">Cerrar sesión</a></li>
+        </ul>
+    }
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Centro Recreativo Rio Nosara", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class=nav navbar-nav navbar-right">
+                <ul class="nav navbar-nav">
+
+
+                    <li>@Html.ActionLink("Administración Proveeduría", "VistaGeneral", "Proveedores")</li>
+                   
+                       <li>@Html.ActionLink("Administración Usuarios", "VistaGeneral", "AspNetUsers")</li>
+
+                
+
+
+                    <li><a href="javascript:document.getElementById('logoutForm').submit()">Cerrar sesión</a></li>
+                    @Html.ActionLink("Hola " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+
+                </ul>
+
+            </div>
+
+        </div>
+    </div>
+}
+
+

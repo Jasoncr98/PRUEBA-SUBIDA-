@@ -1,0 +1,28 @@
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\bin\Debug\Rio1.Model.dll.config
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\bin\Debug\Rio1.Model.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\bin\Debug\Rio1.Model.pdb
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\bin\Debug\EntityFramework.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\bin\Debug\EntityFramework.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.csproj.CopyComplete
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\bin\Debug\Rio1.Model.dll.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\bin\Debug\Rio1.Model.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\bin\Debug\Rio1.Model.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\bin\Debug\EntityFramework.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\bin\Debug\EntityFramework.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\bin\Debug\es\EntityFramework.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.csproj.CoreCompileInputs.cache
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.csproj.CopyComplete
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Model\obj\Debug\Rio1.Model.csprojAssemblyReference.cache

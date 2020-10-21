@@ -1,0 +1,40 @@
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\Rio1.Business.dll.config
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\Rio1.Business.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\Rio1.Business.pdb
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\EntityFramework.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\Rio1.DataAcces.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\Rio1.Model.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\Rio1.DataAcces.pdb
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\Rio1.DataAcces.dll.config
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\Rio1.Model.pdb
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\Rio1.Model.dll.config
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\EntityFramework.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.csproj.CopyComplete
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.dll
+C:\Users\Jason\source\repos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\Rio1.Business.dll.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\Rio1.Business.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\Rio1.Business.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\EntityFramework.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\Rio1.DataAcces.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\Rio1.Model.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\Rio1.DataAcces.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\Rio1.DataAcces.dll.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\Rio1.Model.pdb
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\Rio1.Model.dll.config
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\EntityFramework.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\es\EntityFramework.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.csprojAssemblyReference.cache
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.csproj.CoreCompileInputs.cache
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.csproj.CopyComplete
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.dll
+D:\Practica Versión Jason Módulos\Rio1\Rio1.Business\obj\Debug\Rio1.Business.pdb

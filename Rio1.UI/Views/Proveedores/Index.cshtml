@@ -1,0 +1,126 @@
+﻿@model IEnumerable<Rio1.Model.Proveedores>
+
+@{
+    ViewBag.Title = "Lista de proveedores";
+}
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="~/Content/Estilos.css">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale-1.0, maximun-scale=3.0, minimun-scale=1.0">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <link href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <script class="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+</head>
+<br />
+<div class="contenedor"><center><h2>Información de proveedores</h2></center></div>
+
+
+
+<br />
+<br />
+<p><a class="btn btn-info" @Html.ActionLink("Agregar un proveedor", "Create")</a></p>
+
+<!-- buscar
+<right>
+    <form class="busqueda">
+        <div class="form-row">
+            <div class="input-group">
+                <input type="text" class="form-control" id="texto" placeholder="Buscar" align="right">
+            </div>
+        </div>
+    </form>
+</right>
+<!-- buscar-->
+
+<br />
+<center>
+  <div class="TablaFormato">
+
+
+    <table id="table_id" class="display">
+        <thead>
+            <tr>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.NombreProveedor)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Estado)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Telefono)
+                </th>
+
+                <th></th>
+            </tr>
+        </thead>
+            @foreach (var item in Model)
+            {
+            <tbody>
+
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreProveedor)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Estado)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Telefono)
+                    </td>
+                   
+
+                    <td>
+                        <a class="btn btn-primary" @Html.ActionLink("Detalles", "Details", new { id = item.Id })
+
+                       <a class="btn btn-danger" @Html.ActionLink("Editar", "Editar", new { id = item.Id })
+
+                       <a class="btn btn-info" @Html.ActionLink("Productos", "Crear", new { id = item.Id })
+
+                       @if (item.Estado.ToString().Equals("Activo"))
+                       {<p><a class="btn btn-default" @Html.ActionLink("Inactivar", "Inactivar", new { id = item.Id })</p>}
+
+                       @if (item.Estado.ToString().Equals("Inactivo"))
+                       {<p><a class="btn btn-default" @Html.ActionLink("Activar", "Activar", new { id = item.Id })</p> }
+
+                    </td>
+                </tr>
+            </tbody>
+            }
+
+    </table>
+    </div>
+</center>
+
+<p><a class="btn btn-success" @Html.ActionLink("Regresar a proveeduría", "VistaGeneral")</a></p>
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $('#table_id').DataTable();
+        })
+
+
+    </script>
+}
+
+<!--
+<script>
+    window.addEventListener('keyup', function () {
+        var busqueda = document.getElementById('texto');
+        var table = document.getElementById("tabla").tBodies[0];
+
+        texto = busqueda.value.toLowerCase();
+        var r = 0;
+        while (row = table.rows[r++]) {
+            if (row.innerText.toLowerCase().indexOf(texto) !== -1)
+                row.style.display = null;
+            else
+                row.style.display = 'none';
+        }
+
+    });
+</script>
+    -->

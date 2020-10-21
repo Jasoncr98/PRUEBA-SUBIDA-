@@ -1,0 +1,149 @@
+﻿@{
+    ViewBag.Title = "Página principal";
+
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Parallax Template - Materialize</title>
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="~/Content/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="~/Content/css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+</head>
+<body>
+    <!--   Encabezado   -->
+    <div id="index-banner" class="parallax-container">
+        <div class="section no-pad-bot">
+            <div class="container">
+                <br><br>
+                <h1 class="header center teal-text text-lighten-2">Bienvenidos al Centro de Recración Rio Nósara</h1>
+                <div class="row center">
+                    <h5 class="header col s12 light">Vive una experiencia única junto a nosotros en nuestras instalaciones</h5>
+                </div>
+
+                <br><br>
+            </div>
+        </div>
+        <div class="parallax"><img src="~/Content/imagenes/atardecer.jpg" alt="Unsplashed background img 1"></div>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <!--   Icon Section   -->
+            <div class="row">
+                <div class="col s12 m4">
+                    <div class="icon-block">
+                        
+                        <center><h4>Reserva de alojamiento</h4></center>
+                        <br />
+                        <br />
+                        <p><a class="btn btn-primary" @Html.ActionLink("Reservar", "Index", "Home")</a></p>
+
+                    </div>
+                </div>
+                <div class="col s12 m4">
+                    <div class="icon-block">
+                        
+                        <center><h4>Reserva Plaza de futbol</h4></center>
+                        <p><a class="btn btn-primary" @Html.ActionLink("Reservar", "Index", "Home")</a></p>
+
+                    </div>
+                </div>
+                <div class="col s12 m4">
+                    <div class="icon-block">
+                       
+                        <center><h4>Organización de eventos</h4></center>
+                        <br />
+                        <br />
+                        <p><a class="btn btn-primary" @Html.ActionLink("Reservar", "Index", "Home")</a></p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="parallax-container valign-wrapper">
+        <div class="section no-pad-bot">
+            <div class="container">
+                <div class="row center">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="parallax"><img src="~/Content/imagenes/PISCINACENTRAL.jpg" alt="Unsplashed background img 2"></div>
+    </div>
+    <div class="container">
+        <div class="section">
+            <div class="row">
+                <div class="col s12 center">
+                    <h3><i class="mdi-content-send brown-text"></i></h3>
+                    <h4>Acerca de Nosostros</h4>
+                    <p class="left-align light">Nos especializamos en brindarle a nuestros clientes una experiencia única, con un servicio especializado en cada uno de nuestros servicios. Dentro de nuestras amenidades ofrecemos la Plaza de toros, Restaurante, Piscina y entretenimiento orientado a la familia.;</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="parallax-container valign-wrapper">
+        <div class="section no-pad-bot">
+            <div class="container">
+                <div class="row center">
+                   
+                </div>
+            </div>
+        </div>
+        <div class="parallax"><img src="~/Content/imagenes/Cabañas.jpg" alt="Unsplashed background img 3"></div>
+    </div>
+    <footer class="page-footer teal">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 s12">
+                    <h5 class="white-text">Redes Sociales</h5>
+                   
+                    <ul>
+
+                        <p><img src="~/Content/imagenes/facebook.png" text-align:left>Centro de Recreacion Rio Nosara</p>
+                        <br />
+                        <p><img src="~/Content/imagenes/instagram.png" text-align:left>Centro de Recreacion Rio Nosara</p>
+                        <br />
+                        <p><img src="~/Content/imagenes/gorjeo.png" text-align:left>Centro de Recreacion Rio Nosara</p>
+                        
+
+                    </ul>
+
+                </div>
+                <div class="col l6 s12">
+                    <h5 class="white-text">Contactenos</h5>
+                    <ul>
+                       
+                        <p><img src="~/Content/imagenes/calendario.png" text-align:left>Martes - Domingo : 10 AM a 10 PM</p>
+                        <br />
+                        <p><img src="~/Content/imagenes/mapas-de-google.png" text-align:left>Pilangosta de Hojancha</p>
+                        <br />
+                        <p><img src="~/Content/imagenes/llamada-telefonica.png" text-align:left> (506) 2659-9009</p>
+                        <br />
+                        <p><img src="~/Content/imagenes/correo.png" text-align:left>info@rionosara.com</p>
+
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container">
+               
+            </div>
+        </div>
+    </footer>
+
+    <!--  Scripts-->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="~/Content/js/materialize.js"></script>
+    <script src="~/Content/js/init.js"></script>
+</body>
+</html>
